@@ -1,4 +1,4 @@
-# SimpleLang
+# SimpleLC
 Hello World:
 use io
 $print "Hello, world!"
