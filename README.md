@@ -1,4 +1,4 @@
-# SimpleLC
+# DynamicLC
 Hello World:
 use io
 $print "Hello, world!"
